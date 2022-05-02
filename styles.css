@@ -16,6 +16,9 @@
 body {
   font-family: "League Spartan", sans-serif;
   font-size: 1rem;
+  background-image: url(images/bg-pattern-top-mobile.svg), url(images/bg-pattern-bottom-mobile.svg);
+  background-position: top left, bottom right;
+  background-repeat: no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -34,7 +37,7 @@ body {
 }
 
 main {
-  max-width: 375px;
+  max-width: 90%;
 }
 
 .headings {
@@ -143,6 +146,9 @@ footer {
 }
 
 @media only screen and (min-width: 1440px) {
+  body {
+    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+  }
   main {
     max-width: 80%;
     display: -ms-grid;

@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View codes](https://your-solution-url.com)
-- Live Site URL: [View live site](https://your-live-site-url.com)
+- Solution URL: [View codes](https://github.com/jesuisbienbien/social-proof-section)
+- Live Site URL: [View live site](https://jesuisbienbien.github.io/social-proof-section/)
 
 ## My process
 
